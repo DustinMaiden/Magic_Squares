@@ -5,20 +5,6 @@
 // Author    : Dustin Maiden		//
 // Email     : dmaiden@wisc.edu		//
 // CS Login  : maiden			//
-//					//	
-///////////SOURCES OF HELP////////////////
-//I have experience working on and 	//
-//with magic squares before and have    //
-//been taught the modular arithmetic    //
-// 					//
-//Unlike most student in CS 354, I have //
-//multiple undergraduate degrees and    //
-//CS experience. I believe we went over //
-//modular arithmetic in my disctete math//
-//course at UW - Whitewater. If finding //
-//the instructor and course information //
-// is necessary, I am happy to generate //
-// that information			//
 /////////////////////////////////////////
 #include <stdio.h>
 #include <stdlib.h>
