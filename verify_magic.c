@@ -21,12 +21,6 @@ typedef struct _Square {
 
 /* Read input from file and Build Potential Magic Square
  * filename - file to read formatted integer matrix
- *
- * NOTE - the above return is what should be utilized for 
- * the project specifications. Unfortunately, I am struggling
- * passing these structs around and will call verify_magic
- * from within construct_square - thus negating the need 
- * for the return 
  */ 
 void construct_square(char *filename);
 
